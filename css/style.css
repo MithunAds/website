@@ -17,7 +17,8 @@ body {
 }
 
 .service-card {
-	height: 60vh;
+	height: 100px;
+	width: 80px;
 	margin-bottom: 10px;
 }
 
